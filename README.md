@@ -1,7 +1,7 @@
-<h1 align="center">Hi, Shaheen Ali 👋</h1>
+<h1 align="center">Shaheen Ali 👋</h1>
 
 <p align="center">
-  <em> Data Analytics | Machine Learning </em>
+  <em>Data Analytics · Machine Learning · Real-world Projects</em>
 </p>
 
 <p align="center">
@@ -14,57 +14,55 @@
 ---
 
 ## 🚀 About Me
-
--📊 Data Analytics & ML enthusiast  
--💻 Python | SQL | Power BI  
--🚀 Learning, building, and improving every day 
-
+- 📊 Data Analytics & Machine Learning enthusiast  
+- 💻 Python | SQL | Power BI  
+- 🚀 Building real-world data-driven projects  
+- 🌱 Learning and improving every day  
 
 ---
 
-**Languages & Tools**  
-Python | SQL | Power BI | Excel | MySQL | Git 
+## 🛠️ Tech Stack
+Python | SQL | Power BI | Excel | MySQL | Git  
+Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
 
+---
 
 ## 🚀 Projects
 
 ### 🤖 Explainable AI for Diabetes Prediction
-**Libraries & Concepts**  
-Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  ### 🤖 Explainable AI for Diabetes Prediction
-- Built a **Streamlit-based interactive ML application** for diabetes risk prediction  
-- Trained and compared **Logistic Regression, Random Forest, and XGBoost models**  
-- Achieved strong performance using **XGBoost as the final model**  
-- Performed data preprocessing by handling missing values and feature standardization  
+- Built an **interactive ML app using Streamlit**  
+- Compared **Logistic Regression, Random Forest, XGBoost**  
+- Selected **XGBoost** as best-performing model  
+- Applied **SHAP & LIME** for explainability  
+- Developed **what-if simulation & counterfactual analysis**  
+- Added **health recommendations based on predictions**  
 
-- Implemented **model evaluation metrics** including Accuracy, ROC-AUC, and Confusion Matrix  
-- Enabled **real-time patient risk prediction** with probability scores  
-
-- Integrated **SHAP (global + local explanations)** to interpret feature importance  
-- Used **LIME for instance-level explainability**  
-
-- Developed **what-if simulation** to analyze how feature changes impact predictions  
-- Built a **counterfactual explanation system** suggesting changes in Glucose & BMI to reduce risk  
-
-- Added **health recommendations engine** based on patient input features  
-Machine Learning | Feature Engineering | EDA | Statistics  
+---
 
 ### 🍽️ Personalized Nutrition & Meal Planning DSS
-- Built a **Decision Support System (DSS)** for generating personalized meal plans  
-- Calculates **BMI, calorie needs**, and nutritional requirements  
-- Filters meals based on **diet preferences and health conditions**  
-- Uses **rule-based logic** for interpretable recommendations  
-- Developed an **interactive Streamlit app** with nutrient visualization
+- Built a **Decision Support System (DSS)** for meal planning  
+- Calculated **BMI, calorie needs, nutritional requirements**  
+- Filtered meals based on **diet & health conditions**  
+- Used **rule-based logic** for personalized recommendations  
+- Developed **Streamlit app with visualization**  
 
+---
 
-  ### 🔒 Synthetic Data Generation & Evaluation
-- Generated synthetic datasets using **Gaussian Noise & Gaussian Copula methods**  
-- Evaluated data quality using **Statistical similarity (KS Test), ML Utility (TSTR), and Privacy metrics**  
-- Built a **unified scoring framework** combining all three evaluation pillars  
-- Introduced **use-case sensitivity analysis** to show model performance varies by application context
+### 🔒 Synthetic Data Generation & Evaluation
+- Generated synthetic data using **Gaussian Noise & Copula methods**  
+- Evaluated using **KS Test, TSTR (ML utility), and Privacy metrics**  
+- Built a **unified scoring framework**  
+- Performed **use-case sensitivity analysis**  
 
- ## 📫 Connect With Me
+---
+
+## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/shaheen-alii  
 - 📧 Email: shaheenali681@gmail.com  
+
+---
+
+⭐ *Focused on building practical data analytics and ML solutions*
 
 
 
