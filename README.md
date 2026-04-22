@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Shaheen Ali 👋</h1>
+<h1 align="center">Hi, Shaheen Ali 👋</h1>
 
 <p align="center">
-  <em>Data Analytics & ML enthusiast · Turning raw data into real decisions</em>
+  <em>> Data Analytics | Machine Learning </em>
 </p>
 
 <p align="center">
