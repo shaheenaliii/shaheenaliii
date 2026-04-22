@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Shaheen Ali 👋</h1>
 
 <p align="center">
-  <em>> Data Analytics | Machine Learning </em>
+  <em> Data Analytics | Machine Learning </em>
 </p>
 
 <p align="center">
