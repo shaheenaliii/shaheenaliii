@@ -55,6 +55,11 @@ Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 - Performed **use-case sensitivity analysis**  
 
 ---
+### 📊 Crime Analytics & Prediction (Hadoop)
+- Built a **distributed pipeline using Hadoop (HDFS) & Apache Spark** for large-scale crime data  
+- Processed and normalized **multi-year NCRB datasets** with schema and data consistency handling  
+- Applied **KMeans clustering (with silhouette selection)** and **time-series forecasting (Ridge/GBR)**  
+- Generated **interactive dashboards (maps + charts)** for crime trends and insights  
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/shaheen-alii  
