@@ -15,11 +15,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Passionate about **Data Analytics, Machine Learning & Business Intelligence**
-- 🔭 Currently building projects with **Python, Scikit-learn & Power BI**
-- 🌱 Exploring **LLMs, Generative AI & Agentic AI workflows**
-- 📊 I love finding stories hidden in messy datasets
-- ⚡ Fun fact: I believe great data viz is worth a thousand spreadsheets
+-📊 Data Analytics & ML enthusiast  
+-💻 Python | SQL | Power BI  
+-🚀 Learning, building, and improving every day 
+
 
 ---
 
